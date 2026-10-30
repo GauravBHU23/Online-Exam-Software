@@ -1,0 +1,10 @@
+classpath:C:\Users\iit civil\.m2\repository\jakarta\servlet\jakarta.servlet-api\6.0.0\jakarta.servlet-api-6.0.0.jar	347613:1793353434848
+classpath:C:\Users\iit civil\.m2\repository\jakarta\servlet\jsp\jstl\jakarta.servlet.jsp.jstl-api\3.0.0\jakarta.servlet.jsp.jstl-api-3.0.0.jar	46041:1793353434896
+classpath:C:\Users\iit civil\.m2\repository\jakarta\el\jakarta.el-api\5.0.0\jakarta.el-api-5.0.0.jar	87908:1793353434906
+classpath:C:\Users\iit civil\.m2\repository\org\glassfish\web\jakarta.servlet.jsp.jstl\3.0.1\jakarta.servlet.jsp.jstl-3.0.1.jar	3711043:1793353435193
+classpath:C:\Users\iit civil\.m2\repository\com\mysql\mysql-connector-j\8.4.0\mysql-connector-j-8.4.0.jar	2533399:1793353435109
+classpath:C:\Users\iit civil\.m2\repository\com\google\protobuf\protobuf-java\3.25.1\protobuf-java-3.25.1.jar	1875070:1793353435064
+classpath:C:\Users\iit civil\.m2\repository\com\h2database\h2\2.2.224\h2-2.2.224.jar	2614933:1793353910461
+classpath:C:\Users\iit civil\.m2\repository\org\json\json\20240303\json-20240303.jar	78332:1793353434953
+classpath:C:\Users\iit civil\.m2\repository\com\zaxxer\HikariCP\5.1.0\HikariCP-5.1.0.jar	161840:1793353434971
+classpath:C:\Users\iit civil\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar	41125:1775289627966
